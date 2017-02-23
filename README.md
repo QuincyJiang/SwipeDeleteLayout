@@ -1,0 +1,3 @@
+# SwipeDeleteLayout一个自定义的侧滑删除视图
+搭配recyclerView使用
+thanks：recyclerview-animators
